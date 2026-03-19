@@ -1,1 +1,1 @@
-# task12
+// this project contain simple index.html and script.js file that display compound interst on the console window.
